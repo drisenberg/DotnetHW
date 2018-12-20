@@ -1,0 +1,11 @@
+C:\Users\drisenberg\Documents\Visual Studio 2017\Projects\HelloWorldDotNetCore\HelloWorldDotNetCore\bin\Debug\netcoreapp2.1\HelloWorldDotNetCore.deps.json
+C:\Users\drisenberg\Documents\Visual Studio 2017\Projects\HelloWorldDotNetCore\HelloWorldDotNetCore\bin\Debug\netcoreapp2.1\HelloWorldDotNetCore.runtimeconfig.json
+C:\Users\drisenberg\Documents\Visual Studio 2017\Projects\HelloWorldDotNetCore\HelloWorldDotNetCore\bin\Debug\netcoreapp2.1\HelloWorldDotNetCore.runtimeconfig.dev.json
+C:\Users\drisenberg\Documents\Visual Studio 2017\Projects\HelloWorldDotNetCore\HelloWorldDotNetCore\bin\Debug\netcoreapp2.1\HelloWorldDotNetCore.dll
+C:\Users\drisenberg\Documents\Visual Studio 2017\Projects\HelloWorldDotNetCore\HelloWorldDotNetCore\bin\Debug\netcoreapp2.1\HelloWorldDotNetCore.pdb
+C:\Users\drisenberg\Documents\Visual Studio 2017\Projects\HelloWorldDotNetCore\HelloWorldDotNetCore\obj\Debug\netcoreapp2.1\HelloWorldDotNetCore.csprojAssemblyReference.cache
+C:\Users\drisenberg\Documents\Visual Studio 2017\Projects\HelloWorldDotNetCore\HelloWorldDotNetCore\obj\Debug\netcoreapp2.1\HelloWorldDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\drisenberg\Documents\Visual Studio 2017\Projects\HelloWorldDotNetCore\HelloWorldDotNetCore\obj\Debug\netcoreapp2.1\HelloWorldDotNetCore.AssemblyInfoInputs.cache
+C:\Users\drisenberg\Documents\Visual Studio 2017\Projects\HelloWorldDotNetCore\HelloWorldDotNetCore\obj\Debug\netcoreapp2.1\HelloWorldDotNetCore.AssemblyInfo.cs
+C:\Users\drisenberg\Documents\Visual Studio 2017\Projects\HelloWorldDotNetCore\HelloWorldDotNetCore\obj\Debug\netcoreapp2.1\HelloWorldDotNetCore.dll
+C:\Users\drisenberg\Documents\Visual Studio 2017\Projects\HelloWorldDotNetCore\HelloWorldDotNetCore\obj\Debug\netcoreapp2.1\HelloWorldDotNetCore.pdb
